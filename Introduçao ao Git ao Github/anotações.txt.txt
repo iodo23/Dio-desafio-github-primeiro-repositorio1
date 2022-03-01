@@ -1,0 +1,18 @@
+
+
+1._ link para download do git:
+
+https://git-scm.com/downloads
+
+
+2._ Git bash: Terminal extendido para otimizar o uso do Git.
+
+3._ Portugol: é um ambiente para aprender a programar.
+
+4._ Estudios importantes de la programación:
+   4.1_ sintaxis 
+   4.2_ if
+   4.3_ while
+   4.4_ for
+   4.5_ do while
+   4.6_ listas, arreglos, arboles,etc.

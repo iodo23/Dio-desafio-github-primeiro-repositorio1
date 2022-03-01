@@ -1,0 +1,21 @@
+1._ Entrar en la cuenta: git config --global user.email johndoe@example.com
+
+2._  Ayuda de un comando: git help {comando}
+
+3._ inicializar un repositorio en un directorio existente: git init
+
+4._ clonar repositorio : git clone
+
+5._ grabar alteraciones: git add
+
+6._ verificar status: git status
+
+7._ verificar cambios: git diff
+
+8._ Armacenar el contenido actual del indice en un nuevo commit: git commit
+
+9._ deshacer cosas: git reset
+
+10._ removendo archivos: git rm
+
+11._ mmoviendo archivos: git mv

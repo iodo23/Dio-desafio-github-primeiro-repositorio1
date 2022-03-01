@@ -1,0 +1,18 @@
+
+hacer login: git config --global user.email "jesusgonz21said@gmail.com"
+
+1._ clonar repositorio: git clone " --- "
+
+2._  ubicarse dentro de la direccion de la carpeta: cd dio-desafio-github-primeiro-repositorio1/  o  cd "direcion de la carpeta"
+
+3._ verificar status: git status
+
+4._ si se realizó modificación de archivos en la carpeta ejecutar el comando: git ad .
+
+5._ verificar status: git status
+
+6._  git commit -m "Inclusão das anotações do curso de Git/Github"
+
+7._  git status
+
+8._ git push origin main

@@ -1,5 +1,5 @@
 
-hacer login: git config --global user.email "jesusgonz21said@gmail.com"
+hacer login: git config --global user.email "colocar email"
 
 1._ clonar repositorio: git clone " --- "
 
@@ -7,7 +7,7 @@ hacer login: git config --global user.email "jesusgonz21said@gmail.com"
 
 3._ verificar status: git status
 
-4._ si se realizó modificación de archivos en la carpeta ejecutar el comando: git ad .
+4._ si se realizó modificación de archivos en la carpeta ejecutar el comando: git add .
 
 5._ verificar status: git status
 
